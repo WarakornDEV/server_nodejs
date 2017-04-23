@@ -1,0 +1,30 @@
+{
+  "name": "server_nodejs",
+  "version": "1.0.0",
+  "description": "Server Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "WarakornK",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.0",
+    "compression": "^1.5.0",
+    "connect": "^3.6.1",
+    "express": "^4.15.2",
+    "jade": "1.1.0",
+    "morgan": "^1.6.0",
+    "pug": "^2.0.0-beta.12"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WarakornDEV/server_nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WarakornDEV/server_nodejs/issues"
+  },
+  "homepage": "https://github.com/WarakornDEV/server_nodejs#readme"
+}
